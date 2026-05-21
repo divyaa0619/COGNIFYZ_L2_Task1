@@ -37,6 +37,9 @@
 
 <img width="660" height="305" alt="image" src="https://github.com/user-attachments/assets/3a81a559-a6d4-4ab9-804c-bf20ed012dbe" />
 
+📦 Online Delivery Percentage
+
+<img width="681" height="311" alt="image" src="https://github.com/user-attachments/assets/ff9908dd-14b9-45c0-9411-c149474b3704" />
 
 
 
