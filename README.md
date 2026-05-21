@@ -41,6 +41,9 @@
 
 <img width="681" height="311" alt="image" src="https://github.com/user-attachments/assets/ff9908dd-14b9-45c0-9411-c149474b3704" />
 
+⭐ Average Rating Output
+
+<img width="724" height="271" alt="image" src="https://github.com/user-attachments/assets/9a58d41a-1c4c-4027-91d3-2f0f15125848" />
 
 
     
