@@ -45,6 +45,9 @@
 
 <img width="724" height="271" alt="image" src="https://github.com/user-attachments/assets/9a58d41a-1c4c-4027-91d3-2f0f15125848" />
 
+📊 Average Rating Comparison Chart
+
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/752291bb-280d-44ae-99d3-97c615249499" />
 
     
 
